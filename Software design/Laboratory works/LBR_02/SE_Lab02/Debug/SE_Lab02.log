@@ -1,6 +1,0 @@
-﻿  SE_Lab02.cpp
-D:\User\Desktop\Everythin' for BSTU\Narkevich\All laboratory works\2-ой семестр\решения лбр\LBR_02\SE_Lab02\SE_Lab02.cpp(47,16): warning C4305: инициализация: усечение из "double" в "float"
-D:\User\Desktop\Everythin' for BSTU\Narkevich\All laboratory works\2-ой семестр\решения лбр\LBR_02\SE_Lab02\SE_Lab02.cpp(52,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\User\Desktop\Everythin' for BSTU\Narkevich\All laboratory works\2-ой семестр\решения лбр\LBR_02\SE_Lab02\SE_Lab02.cpp(48): warning C4723: возможное деление на 0
-D:\User\Desktop\Everythin' for BSTU\Narkevich\All laboratory works\2-ой семестр\решения лбр\LBR_02\SE_Lab02\SE_Lab02.cpp(50): warning C4723: возможное деление на 0
-  SE_Lab02.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Narkevich\All laboratory works\2-ой семестр\решения лбр\LBR_02\SE_Lab02\Debug\SE_Lab02.exe

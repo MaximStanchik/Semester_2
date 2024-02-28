@@ -1,0 +1,35 @@
+﻿Сборка начата 29.05.2023 12:50:40.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Project1.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\Project1.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\Project1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Solution.cpp
+         Solution.cpp
+     1>D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Solution.cpp(7,1): warning C4005: INT_MAX: изменение макроопределения
+       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\limits.h(36,1): message : см. предыдущее определение "INT_MAX"
+     1>D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Solution.cpp(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Solution.cpp(126,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Solution.cpp(156,19): warning C4804: <: небезопасное использование типа "bool" в операции
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Debug\Project1.exe" /INCREMENTAL /ILK:"Debug\Project1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Debug\Project1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Solution.obj
+         Project1.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Debug\Project1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Project1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Project1.tlog\Project1.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Project1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Project1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Solution.cpp(7,1): warning C4005: INT_MAX: изменение макроопределения
+         D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Solution.cpp(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Solution.cpp(126,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\LABA6\Project1\Solution.cpp(156,19): warning C4804: <: небезопасное использование типа "bool" в операции
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:02.32

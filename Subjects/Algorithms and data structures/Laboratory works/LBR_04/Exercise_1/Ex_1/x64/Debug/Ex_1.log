@@ -1,0 +1,18 @@
+﻿  Solution.cpp
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(116,17): error C2374: i: переопределение; множественная инициализация
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(76,17): message : см. объявление "i"
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(117,17): error C2374: j: переопределение; множественная инициализация
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(77,17): message : см. объявление "j"
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(93,9): error C2360: пропуск инициализации "j" из-за метки "case"
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(77,17): message : см. объявление "j"
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(93,9): error C2360: пропуск инициализации "i" из-за метки "case"
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(76,17): message : см. объявление "i"
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(130,13): error C2043: недопустимый break
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(133,19): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(133,19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(133,14): error C2371: std::cout: переопределение; различные базовые типы
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iostream(40,57): message : см. объявление "std::cout"
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(133,19): error C2059: синтаксическая ошибка: <<
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(134,9): error C2059: синтаксическая ошибка: return
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(135,5): error C2059: синтаксическая ошибка: }
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_04\Exercise_2\Solution.cpp(135,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

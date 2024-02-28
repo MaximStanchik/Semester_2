@@ -1,0 +1,3 @@
+﻿  Solution.cpp
+D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\six\Solution.cpp(30,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  six.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\LBR_06\six\x64\Debug\six.exe

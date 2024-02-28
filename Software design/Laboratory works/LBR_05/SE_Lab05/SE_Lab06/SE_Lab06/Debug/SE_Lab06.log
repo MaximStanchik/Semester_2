@@ -1,0 +1,7 @@
+﻿  SE_Lab06.cpp
+D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_05\SE_Lab05\SE_Lab06\SE_Lab06\SE_Lab06.h(5,27): error C2871: dictionary: пространство имен с таким именем не существует
+D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_05\SE_Lab05\SE_Lab06\SE_Lab06\SE_Lab06.cpp(3,27): error C2871: dictionary: пространство имен с таким именем не существует
+D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_05\SE_Lab05\SE_Lab06\SE_Lab06\SE_Lab06.cpp(10,12): error C2065: LC_ALL: необъявленный идентификатор
+D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_05\SE_Lab05\SE_Lab06\SE_Lab06\SE_Lab06.cpp(10,2): error C3861: setlocale: идентификатор не найден
+D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_05\SE_Lab05\SE_Lab06\SE_Lab06\SE_Lab06.cpp(86,3): error C2065: cout: необъявленный идентификатор
+D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_05\SE_Lab05\SE_Lab06\SE_Lab06\SE_Lab06.cpp(86,16): error C2065: endl: необъявленный идентификатор

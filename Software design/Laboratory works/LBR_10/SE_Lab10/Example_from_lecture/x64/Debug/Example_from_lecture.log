@@ -1,0 +1,4 @@
+﻿  Solution.cpp
+D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_10\SE_Lab10\Example_from_lecture\Solution.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_10\SE_Lab10\Example_from_lecture\Solution.cpp(14,12): error C2397: Преобразование из "__int64" в "int" требует сужающего преобразования.
+D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_10\SE_Lab10\Example_from_lecture\Solution.cpp(17,12): error C2397: Преобразование из "__int64" в "int" требует сужающего преобразования.

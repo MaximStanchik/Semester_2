@@ -1,0 +1,19 @@
+﻿Сборка начата 24.05.2023 16:20:30.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_10\Number_1,4\Lambda_function\Lambda_function.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lambda_function.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Lambda_function.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_10\Number_1,4\Lambda_function\Debug\Lambda_function.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lambda_function.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lambda_function.tlog\Lambda_function.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_10\Number_1,4\Lambda_function\Lambda_function.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.05

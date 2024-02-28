@@ -1,0 +1,22 @@
+if (count == size) {
+            std::cout << "Вы достигли максимального количества элементов в очереди" << std::endl;
+            std::cout << "Желаете увеличить максимальное количество элементов в очереди?" << std::endl;
+            std::cout << "1--Да" << std::endl;
+            std::cout << "Любой другой символ--Нет. Выход" << std::endl;
+            std::cin >> choiceofsize;
+            switch (choiceofsize) {
+            case 1:
+                std::cout << "Введите, насколько Вы хотите увеличить очередь: ";
+                std::cin >> newsize;
+                if (newsize < 0) {
+                    std::cout << "Нельзя прибавлять отрицательное число" << std::endl;
+                }
+                else {
+                    size = size + newsize;
+                }
+                break;
+            default:
+                return 0;
+            }
+        }
+        else {

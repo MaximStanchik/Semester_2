@@ -1,0 +1,3 @@
+﻿  Solution.cpp
+D:\User\Desktop\Everythin' for BSTU\Численные методы\LBR_03\Newton's method\Newton's method\Solution.cpp(20,17): warning C4305: инициализация: усечение из "double" в "float"
+  Newton's method.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Численные методы\LBR_03\Newton's method\Newton's method\x64\Debug\Newton's method.exe

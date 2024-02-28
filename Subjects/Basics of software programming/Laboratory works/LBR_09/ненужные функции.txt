@@ -1,0 +1,84 @@
+void writeToFile(Address** phead)       //Запись в файл
+{
+    struct Address* t = *phead;
+    FILE* fp;
+    errno_t err = fopen_s(&fp, "mlist.txt", "wb");
+    if (err)
+    {
+        cerr << "Файл не открывается" << endl;
+        exit(1);
+    }
+    cout << "Сохранение в файл" << endl;
+    while (t)
+    {
+        fwrite(t, sizeof(struct Address), 1, fp);
+        t = t->next;
+    }
+    fclose(fp);
+}
+
+void readFromFile(Address** phead, Address** plast)          //Считывание из фай-ла
+{
+    struct Address* t;
+    FILE* fp;
+    errno_t err = fopen_s(&fp, "mlist.txt", "rb");
+    if (err)
+    {
+        cerr << "Файл не открывается" << endl;
+        exit(1);
+    }
+    while (*phead)
+    {
+        *plast = (*phead)->next;
+        delete* phead;
+        *phead = *plast;
+    }
+    *phead = *plast = NULL;
+    cout << "Загрузка из файла" << endl;
+    while (!feof(fp))
+    {
+        t = new Address();
+        if (!t)
+        {
+            cerr << "Ошибка выделения памяти" << endl;
+            return;
+        }
+        if (1 != fread(t, sizeof(struct Address), 1, fp)) break;
+        insert(t, phead, plast);
+    }
+    fclose(fp);
+}
+
+
+void findMin(Address** phead) {
+    Address* t = *phead;
+    char min[80];
+    short ch;
+    cout << "Выберите по какому полю искать (1 - Имя, 2 - Город):\n";
+    cin >> ch;
+    if (ch == 1) {
+        strcpy_s(min, t->name);
+        while (t) {
+            if (strlen(min) > strlen(t->name))
+                strcpy_s(min, t->name);
+            t = t->next;
+        }
+    }
+    else if (ch == 2) {
+        strcpy_s(min, t->city);
+        while (t) {
+            if (strlen(min) > strlen(t->city))
+                strcpy_s(min, t->city);
+            t = t->next;
+        }
+    }
+    else {
+        cout << "Нет такого варианта\n";
+        findMin(phead);
+    }
+
+    if (ch == 1)
+        find(min, phead);
+    else if (ch == 2)
+        findcit(min, phead);
+}

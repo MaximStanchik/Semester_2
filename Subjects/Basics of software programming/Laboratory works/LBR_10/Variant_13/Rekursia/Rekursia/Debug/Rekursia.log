@@ -1,0 +1,28 @@
+﻿Сборка начата 27.06.2023 10:40:19.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Rekursia\Rekursia.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Rekursia.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Solution.cpp
+         Solution.cpp
+     1>D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Rekursia\Solution.cpp(33,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Rekursia\Solution.cpp(46,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Debug\Rekursia.exe" /INCREMENTAL /ILK:"Debug\Rekursia.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Debug\Rekursia.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Debug\Rekursia.lib" /MACHINE:X86 Debug\Solution.obj
+         Rekursia.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Debug\Rekursia.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Rekursia.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Rekursia.tlog\Rekursia.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Rekursia\Rekursia.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Rekursia\Rekursia.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Rekursia\Solution.cpp(33,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+         D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_10\Variant_13\Rekursia\Rekursia\Solution.cpp(46,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:00.88

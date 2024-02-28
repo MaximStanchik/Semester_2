@@ -1,0 +1,21 @@
+﻿Сборка начата 28.06.2023 12:07:52.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\ConsoleA.4a8fc971.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(293,33): error C2039: "getRoot": не является членом "BinaryTree".
+       D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(13,7): message : см. объявление "BinaryTree"
+     1>Сборка проекта "D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(293,33): error C2039: "getRoot": не является членом "BinaryTree".
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.31

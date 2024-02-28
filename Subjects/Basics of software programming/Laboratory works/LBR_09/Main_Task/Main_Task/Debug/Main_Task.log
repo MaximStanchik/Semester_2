@@ -1,0 +1,20 @@
+﻿Сборка начата 23.06.2023 13:03:44.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_09\Main_Task\Main_Task\Main_Task.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Main_Task.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Solution.cpp
+         Solution.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_09\Main_Task\Debug\Main_Task.exe" /INCREMENTAL /ILK:"Debug\Main_Task.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_09\Main_Task\Debug\Main_Task.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_09\Main_Task\Debug\Main_Task.lib" /MACHINE:X86 Debug\Solution.obj
+         Main_Task.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_09\Main_Task\Debug\Main_Task.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Main_Task.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Main_Task.tlog\Main_Task.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_09\Main_Task\Main_Task\Main_Task.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.82

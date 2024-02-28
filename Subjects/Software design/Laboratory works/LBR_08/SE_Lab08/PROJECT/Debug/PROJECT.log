@@ -1,0 +1,20 @@
+﻿Сборка начата 23.05.2023 14:17:40.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_08\SE_Lab08\PROJECT\PROJECT.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\PROJECT.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Solution.cpp
+         Solution.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_08\SE_Lab08\PROJECT\Debug\PROJECT.exe" /INCREMENTAL /ILK:"Debug\PROJECT.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_08\SE_Lab08\PROJECT\Debug\PROJECT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_08\SE_Lab08\PROJECT\Debug\PROJECT.lib" /MACHINE:X86 Debug\Solution.obj
+         PROJECT.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_08\SE_Lab08\PROJECT\Debug\PROJECT.exe
+       FinalizeBuildStatus:
+         Файл "Debug\PROJECT.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\PROJECT.tlog\PROJECT.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_08\SE_Lab08\PROJECT\PROJECT.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.12

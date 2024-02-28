@@ -1,0 +1,28 @@
+﻿Сборка начата 23.05.2023 14:00:02.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_06\SE_Lab06\SE_Lab06L\SE_Lab06L.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\SE_Lab06L.tlog\SE_Lab06L.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\SE_Lab06L.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_06\SE_Lab06\Debug\SE_Lab06L.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SE_Lab06L.cpp
+         SE_Lab06L.cpp
+     1>D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_06\SE_Lab06\SE_Lab06L\SE_Lab06L.cpp(85,23): warning C4018: <: несоответствие типов со знаком и без знака
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86\Lib.exe /OUT:"D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_06\SE_Lab06\Debug\SE_Lab06L.lib" /NOLOGO /MACHINE:X86 Debug\SE_Lab06L.obj
+         SE_Lab06L.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_06\SE_Lab06\Debug\SE_Lab06L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab06L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab06L.tlog\SE_Lab06L.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_06\SE_Lab06\SE_Lab06L\SE_Lab06L.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_06\SE_Lab06\SE_Lab06L\SE_Lab06L.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_06\SE_Lab06\SE_Lab06L\SE_Lab06L.cpp(85,23): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.62

@@ -1,0 +1,37 @@
+﻿Сборка начата 07.06.2023 17:09:34.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\SE_Lab09.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "x64\Debug\SE_Lab09.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\SE_Lab09.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Varparm.cpp Work.cpp
+         Varparm.cpp
+         Work.cpp
+     1>D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\Work.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\Work.cpp(30,40): warning C4305: аргумент: усечение из "double" в "float"
+     1>D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\Work.cpp(31,47): warning C4305: аргумент: усечение из "double" в "float"
+     1>D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\Work.cpp(32,72): warning C4305: аргумент: усечение из "double" в "float"
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\x64\Debug\SE_Lab09.exe" /INCREMENTAL /ILK:"x64\Debug\SE_Lab09.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\x64\Debug\SE_Lab09.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\x64\Debug\SE_Lab09.lib" /MACHINE:X64 x64\Debug\Varparm.obj
+         x64\Debug\Work.obj
+         SE_Lab09.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\x64\Debug\SE_Lab09.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\SE_Lab09.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\SE_Lab09.tlog\SE_Lab09.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\SE_Lab09.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\SE_Lab09.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\Work.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\Work.cpp(30,40): warning C4305: аргумент: усечение из "double" в "float"
+         D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\Work.cpp(31,47): warning C4305: аргумент: усечение из "double" в "float"
+         D:\User\Desktop\Everythin' for BSTU\Narkevich\1-ый курс 2-ой семестр\Lab's\решения лбр\LBR_09\лаба 9\SE_Lab09\Work.cpp(32,72): warning C4305: аргумент: усечение из "double" в "float"
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:01.06

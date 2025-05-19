@@ -1,0 +1,5 @@
+﻿  Matrix.cpp
+D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_01\Number_4_v11\Num4\Num4\Matrix.cpp(25,36): error C2109: для индекса требуется массив или указатель
+D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_01\Number_4_v11\Num4\Num4\Matrix.cpp(36,22): error C2440: инициализация: невозможно преобразовать "int *" в "int ***"
+D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_01\Number_4_v11\Num4\Num4\Matrix.cpp(36,22): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+D:\User\Desktop\Everythin' for BSTU\Basics of software programmin'\1-st course 2-st semester\LBR_01\Number_4_v11\Num4\Num4\Matrix.cpp(65,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
